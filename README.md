@@ -5,13 +5,16 @@
 
  # Installation
  1. clone the repository
+ 
  `git clone https://github.com/balogvn/currency-conversion-api.git`
  
  2. Install the dependencies
+ 
  `pip install -r requirements.txt`
  
 # Running the app
 1. Start the application
+
 `uvicorn shake:api --reload`
 
 2. Open the API documentation
