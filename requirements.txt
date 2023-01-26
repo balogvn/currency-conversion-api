@@ -1,0 +1,6 @@
+BeautifulSoup
+fastapi
+pydantic
+requests
+uvicorn
+dateutil.parser
