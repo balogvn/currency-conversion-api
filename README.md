@@ -28,7 +28,9 @@ Make sure the server is running, and then you can use the endpoints by sending H
 Endpoints:
 
 /convert: Convert an amount from one currency to another.
+
 /currencies: Get a list of all available currencies.
+
 /history: Get a list of all previous conversions.
 
 # Contact
